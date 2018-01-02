@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Nhat Phan",
+      "authorEmail": "nhat.phan@ntworld.net",
+      "authorUrl": ""
+    }
+  }
+}
